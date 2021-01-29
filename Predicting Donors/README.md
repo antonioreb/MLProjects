@@ -17,3 +17,5 @@ The work is split in two files:
 
 * EDA.ipynb - Most of Exploratory Data Analysis and preprocessing is explained here.
 * Main.ipynb - Main file
+
+**NOTE:** If the notebooks don't render, paste the github link for the notebook [here](https://nbviewer.jupyter.org/)
